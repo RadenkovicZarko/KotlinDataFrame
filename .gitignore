@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Kotlin specific
+*.kotlin_module
+*.class
+
+# Java-specific
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Generated files
+*.generated
+*.map
+
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE-specific
+.vscode/
